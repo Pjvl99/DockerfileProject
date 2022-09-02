@@ -14,4 +14,4 @@
 
 ## Extra
 
-1. Para tomar la imagen de docker hub ejecutar el siguiente comando: "docker pull pjvl1999/ruby"
+1. Para tomar la imagen de docker hub ejecutar el siguiente comando: "docker pull pjvl1999/ruby:0.0.1"
